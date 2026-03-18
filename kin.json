@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kaizakin/kinctx/releases/download/v1.0.0/kinctx_1.0.0_windows_amd64.tar.gz",
+            "bin": [
+                "kin.exe"
+            ],
+            "hash": "65d87d598ba531684aa5eab6e7beb616cb9a6c4bbcd07fc5c2da5b0d5f37e94a"
+        },
+        "arm64": {
+            "url": "https://github.com/kaizakin/kinctx/releases/download/v1.0.0/kinctx_1.0.0_windows_arm64.tar.gz",
+            "bin": [
+                "kin.exe"
+            ],
+            "hash": "2d96e7f1d81fefea324fe74522d484c8f8293691bcd46f2ccde0c1e4ff150ea6"
+        }
+    },
+    "homepage": "https://github.com/kaizakin/kinctx",
+    "license": "MIT",
+    "description": "A terminal-first snippet manager"
+}
